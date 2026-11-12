@@ -5,7 +5,7 @@ import type { Img } from "@/data/media";
 import { media } from "@/data/media";
 import type { Faq } from "@/data/services";
 import type { Post } from "@/data/posts";
-import { formatDate, readingTime } from "@/data/posts";
+import { categories, formatDate, getCategory, readingTime } from "@/data/posts";
 import { absoluteUrl, site, whatsappLink } from "@/lib/site";
 import Reveal from "./Reveal";
 import EnquiryForm from "./EnquiryForm";
@@ -326,32 +326,115 @@ export function ProjectCard({
   );
 }
 
-export function PostCard({ post }: { post: Post }) {
+export function CategoryLabel({ slug, light = false }: { slug: string; light?: boolean }) {
+  const c = getCategory(slug);
+  if (!c) return null;
   return (
-    <article className="group flex h-full flex-col">
+    <Link
+      href={`/blog/category/${c.slug}`}
+      className={`relative z-10 inline-block text-[0.68rem] font-bold uppercase tracking-[0.2em] transition-colors ${
+        light ? "text-gold hover:text-white" : "text-bronze hover:text-ink"
+      }`}
+    >
+      {c.name}
+    </Link>
+  );
+}
+
+export function PostMeta({ post, light = false }: { post: Post; light?: boolean }) {
+  return (
+    <p className={`text-[0.7rem] font-semibold uppercase tracking-[0.16em] ${light ? "text-white/60" : "text-muted"}`}>
+      <time dateTime={post.date}>{formatDate(post.date)}</time>
+      <span aria-hidden="true" className="mx-2">·</span>
+      {readingTime(post.words)} min read
+    </p>
+  );
+}
+
+export function PostCard({ post, priority = false }: { post: Post; priority?: boolean }) {
+  return (
+    <article className="group flex h-full flex-col border border-line bg-white/50 transition-shadow duration-500 hover:shadow-[0_18px_50px_-24px_rgba(12,12,11,0.35)]">
       <Link href={`/blog/${post.slug}`} className="img-zoom block overflow-hidden bg-stone" tabIndex={-1} aria-hidden="true">
-        <div className="relative aspect-[16/10]">
-          {post.image && (
-            <Image
-              src={post.image.src}
-              alt=""
-              fill
-              sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-              className="object-cover"
-            />
-          )}
+        <div className="relative aspect-video">
+          <Image
+            src={post.image.src}
+            alt=""
+            fill
+            priority={priority}
+            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+            className="object-cover"
+          />
         </div>
       </Link>
-      <p className="mt-5 text-[0.7rem] font-semibold uppercase tracking-[0.18em] text-muted">
-        <time dateTime={post.date}>{formatDate(post.date)}</time> · {readingTime(post.words)} min read
-      </p>
-      <h3 className="display mt-2 text-2xl leading-tight md:text-[1.7rem]">
-        <Link href={`/blog/${post.slug}`} className="transition-colors group-hover:text-bronze">
-          {post.title}
-        </Link>
-      </h3>
-      <p className="mt-3 line-clamp-3 text-sm leading-relaxed text-muted">{post.description}</p>
+      <div className="flex flex-1 flex-col p-6">
+        <CategoryLabel slug={post.category} />
+        <h3 className="display mt-3 text-[1.65rem] leading-[1.12]">
+          <Link href={`/blog/${post.slug}`} className="transition-colors group-hover:text-bronze">
+            {post.title}
+          </Link>
+        </h3>
+        <p className="mt-3 line-clamp-3 text-sm leading-relaxed text-muted">{post.description}</p>
+        <div className="mt-auto pt-6">
+          <div className="flex items-center justify-between gap-4 border-t border-line pt-5">
+            <PostMeta post={post} />
+            <span aria-hidden="true" className="text-bronze transition-transform duration-300 group-hover:translate-x-1">
+              →
+            </span>
+          </div>
+        </div>
+      </div>
     </article>
+  );
+}
+
+export function PostRow({ post }: { post: Post }) {
+  return (
+    <article className="group grid grid-cols-[7.5rem_1fr] items-center gap-5 sm:grid-cols-[10rem_1fr]">
+      <Link href={`/blog/${post.slug}`} className="img-zoom block overflow-hidden bg-stone" tabIndex={-1} aria-hidden="true">
+        <div className="relative aspect-video">
+          <Image src={post.image.src} alt="" fill sizes="160px" className="object-cover" />
+        </div>
+      </Link>
+      <div>
+        <CategoryLabel slug={post.category} />
+        <h3 className="display mt-1 text-xl leading-tight sm:text-2xl">
+          <Link href={`/blog/${post.slug}`} className="transition-colors group-hover:text-bronze">
+            {post.title}
+          </Link>
+        </h3>
+        <div className="mt-2">
+          <PostMeta post={post} />
+        </div>
+      </div>
+    </article>
+  );
+}
+
+export function CategoryNav({ active }: { active?: string }) {
+  const chip = "inline-block border px-4 py-2.5 text-[0.7rem] font-semibold uppercase tracking-[0.16em] transition-colors";
+  const on = "border-gold bg-gold text-ink";
+  const off = "border-white/25 text-white/80 hover:border-white hover:text-white";
+  return (
+    <nav aria-label="Article topics">
+      <ul className="flex flex-wrap gap-2">
+        <li>
+          <Link href="/blog" aria-current={!active ? "page" : undefined} className={`${chip} ${!active ? on : off}`}>
+            All articles
+          </Link>
+        </li>
+        {categories.map((c) => (
+          <li key={c.slug}>
+            <Link
+              href={`/blog/category/${c.slug}`}
+              aria-current={active === c.slug ? "page" : undefined}
+              className={`${chip} ${active === c.slug ? on : off}`}
+            >
+              {c.name}
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </nav>
   );
 }
 

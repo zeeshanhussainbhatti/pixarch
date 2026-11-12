@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { services } from "@/data/services";
 import { projects } from "@/data/projects";
 import { locations } from "@/data/locations";
-import { posts } from "@/data/posts";
+import { categories, posts } from "@/data/posts";
 import { absoluteUrl } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -25,6 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     page("/about", 0.6),
     page("/contact", 0.6),
     page("/blog", 0.7, latestPost),
+    ...categories.map((c) => page(`/blog/category/${c.slug}`, 0.5)),
     ...posts.map((p) => page(`/blog/${p.slug}`, 0.6, p.modified ?? p.date)),
   ];
 }
