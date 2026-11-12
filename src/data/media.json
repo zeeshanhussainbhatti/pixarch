@@ -1,0 +1,1429 @@
+{
+ "projects": {
+  "the-rise": {
+   "name": "The Rise",
+   "images": [
+    {
+     "src": "/images/projects/the-rise/exterior-1.webp",
+     "w": 1800,
+     "h": 942,
+     "alt": "The Rise exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-rise/exterior-2.webp",
+     "w": 1800,
+     "h": 1440,
+     "alt": "The Rise exterior 3D render, view 2",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-rise/exterior-3.webp",
+     "w": 1800,
+     "h": 1200,
+     "alt": "The Rise exterior 3D render, view 3",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-rise/exterior-5.webp",
+     "w": 1800,
+     "h": 1202,
+     "alt": "The Rise exterior 3D render, view 5",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-rise/exterior-6.webp",
+     "w": 1800,
+     "h": 1286,
+     "alt": "The Rise exterior 3D render, view 6",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-rise/interior-1.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "The Rise interior 3D render, view 1",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-rise/interior-2.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "The Rise interior 3D render, view 2",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-rise/interior-3.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "The Rise interior 3D render, view 3",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-rise/interior-4.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "The Rise interior 3D render, view 4",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-rise/interior-5.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "The Rise interior 3D render, view 5",
+     "kind": "interior"
+    }
+   ]
+  },
+  "aum-99": {
+   "name": "Aum 99",
+   "images": [
+    {
+     "src": "/images/projects/aum-99/exterior-1.webp",
+     "w": 1800,
+     "h": 942,
+     "alt": "Aum 99 exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/aum-99/exterior-2.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Aum 99 exterior 3D render, view 2",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/aum-99/exterior-3.webp",
+     "w": 1800,
+     "h": 900,
+     "alt": "Aum 99 exterior 3D render, view 3",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/aum-99/exterior-4.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Aum 99 exterior 3D render, view 4",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/aum-99/exterior-5.webp",
+     "w": 1800,
+     "h": 900,
+     "alt": "Aum 99 exterior 3D render, view 5",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/aum-99/exterior-6.webp",
+     "w": 1800,
+     "h": 900,
+     "alt": "Aum 99 exterior 3D render, view 6",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/aum-99/interior-1.webp",
+     "w": 1800,
+     "h": 1170,
+     "alt": "Aum 99 interior 3D render, view 1",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/aum-99/interior-2.webp",
+     "w": 1500,
+     "h": 1500,
+     "alt": "Aum 99 interior 3D render, view 2",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/aum-99/interior-3.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Aum 99 interior 3D render, view 3",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/aum-99/interior-4.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Aum 99 interior 3D render, view 4",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/aum-99/interior-5.webp",
+     "w": 1800,
+     "h": 1200,
+     "alt": "Aum 99 interior 3D render, view 5",
+     "kind": "interior"
+    }
+   ]
+  },
+  "empire-living": {
+   "name": "Empire Living",
+   "images": [
+    {
+     "src": "/images/projects/empire-living/exterior-1.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Empire Living exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/empire-living/exterior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire Living exterior 3D render, view 2",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/empire-living/exterior-3.webp",
+     "w": 1800,
+     "h": 1440,
+     "alt": "Empire Living exterior 3D render, view 3",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/empire-living/exterior-4.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire Living exterior 3D render, view 4",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/empire-living/interior-1.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire Living interior 3D render: rooftop05",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/empire-living/interior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire Living interior 3D render: 1bed type page",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/empire-living/interior-3.webp",
+     "w": 1800,
+     "h": 1440,
+     "alt": "Empire Living interior 3D render: 1bed duplex page",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/empire-living/exterior-5.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire Living exterior 3D render, view 5",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/empire-living/interior-4.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire Living interior 3D render: play area",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/empire-living/interior-5.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire Living interior 3D render: studio page",
+     "kind": "interior"
+    }
+   ]
+  },
+  "empire-lakeviews": {
+   "name": "Empire LakeViews",
+   "images": [
+    {
+     "src": "/images/projects/empire-lakeviews/exterior-1.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire LakeViews exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/empire-lakeviews/interior-1.webp",
+     "w": 1323,
+     "h": 1500,
+     "alt": "Empire LakeViews interior 3D render: creek park",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/empire-lakeviews/exterior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire LakeViews exterior 3D render, view 2",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/empire-lakeviews/exterior-3.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire LakeViews exterior 3D render, view 3",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/empire-lakeviews/exterior-4.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Empire LakeViews exterior 3D render, view 4",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/empire-lakeviews/interior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire LakeViews interior 3D render: bbedroom",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/empire-lakeviews/interior-3.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Empire LakeViews interior 3D render: bedroom",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/empire-lakeviews/interior-4.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Empire LakeViews interior 3D render: living",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/empire-lakeviews/interior-5.webp",
+     "w": 1800,
+     "h": 1500,
+     "alt": "Empire LakeViews interior 3D render: loung",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/empire-lakeviews/interior-6.webp",
+     "w": 1203,
+     "h": 1500,
+     "alt": "Empire LakeViews interior 3D render: reception",
+     "kind": "interior"
+    }
+   ]
+  },
+  "mehran-qaf-sky-tower": {
+   "name": "Mehran QAF Sky Tower",
+   "images": [
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/exterior-1.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mehran QAF Sky Tower exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/exterior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mehran QAF Sky Tower exterior 3D render, view 2",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/exterior-3.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Mehran QAF Sky Tower exterior 3D render, view 3",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/exterior-4.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Mehran QAF Sky Tower exterior 3D render, view 4",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/exterior-5.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mehran QAF Sky Tower exterior 3D render, view 5",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/interior-1.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mehran QAF Sky Tower interior 3D render: bedroom",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/interior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mehran QAF Sky Tower interior 3D render: drawing room",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/interior-3.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Mehran QAF Sky Tower interior 3D render: living",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/interior-4.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Mehran QAF Sky Tower interior 3D render: prayer hall",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/mehran-qaf-sky-tower/interior-5.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mehran QAF Sky Tower interior 3D render: reception lift lobby",
+     "kind": "interior"
+    }
+   ]
+  },
+  "gold-crest": {
+   "name": "Gold Crest",
+   "images": [
+    {
+     "src": "/images/projects/gold-crest/exterior-1.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Gold Crest exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/gold-crest/exterior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Gold Crest exterior 3D render, view 2",
+     "kind": "exterior"
+    }
+   ]
+  },
+  "bisma-shafi-heights": {
+   "name": "Bisma Shafi Heights",
+   "images": [
+    {
+     "src": "/images/projects/bisma-shafi-heights/exterior-1.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Bisma Shafi Heights exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/bisma-shafi-heights/exterior-2.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Bisma Shafi Heights exterior 3D render, view 2",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/bisma-shafi-heights/exterior-3.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Bisma Shafi Heights exterior 3D render, view 3",
+     "kind": "exterior"
+    }
+   ]
+  },
+  "saars-3": {
+   "name": "Saars 3",
+   "images": [
+    {
+     "src": "/images/projects/saars-3/exterior-1.webp",
+     "w": 1800,
+     "h": 1350,
+     "alt": "Saars 3 exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/saars-3/exterior-2.webp",
+     "w": 1800,
+     "h": 1202,
+     "alt": "Saars 3 exterior 3D render, view 2",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/saars-3/exterior-3.webp",
+     "w": 1800,
+     "h": 1201,
+     "alt": "Saars 3 exterior 3D render, view 3",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/saars-3/exterior-4.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Saars 3 exterior 3D render, view 4",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/saars-3/exterior-5.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Saars 3 exterior 3D render, view 5",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/saars-3/exterior-6.webp",
+     "w": 1800,
+     "h": 1200,
+     "alt": "Saars 3 exterior 3D render, view 6",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/saars-3/interior-1.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Saars 3 interior 3D render: bedroom a",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/saars-3/interior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Saars 3 interior 3D render: bedroom a",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/saars-3/interior-3.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Saars 3 interior 3D render: livingkitchen a",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/saars-3/interior-4.webp",
+     "w": 1800,
+     "h": 1080,
+     "alt": "Saars 3 interior 3D render: indoor game a",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/saars-3/interior-5.webp",
+     "w": 1800,
+     "h": 1080,
+     "alt": "Saars 3 interior 3D render: reception drop off b",
+     "kind": "interior"
+    }
+   ]
+  },
+  "mount-khalid": {
+   "name": "Mount Khalid",
+   "images": [
+    {
+     "src": "/images/projects/mount-khalid/exterior-1.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mount Khalid exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/mount-khalid/interior-1.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mount Khalid interior 3D render: balcony",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/mount-khalid/exterior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mount Khalid exterior 3D render, view 2",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/mount-khalid/exterior-3.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "Mount Khalid exterior 3D render, view 3",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/mount-khalid/exterior-4.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mount Khalid exterior 3D render, view 4",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/mount-khalid/interior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mount Khalid interior 3D render: guest meeting lounge",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/mount-khalid/interior-3.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mount Khalid interior 3D render: ladies spa",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/mount-khalid/interior-4.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "Mount Khalid interior 3D render: parking",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/mount-khalid/interior-5.webp",
+     "w": 1800,
+     "h": 1406,
+     "alt": "Mount Khalid interior 3D render: reception",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/mount-khalid/interior-6.webp",
+     "w": 1800,
+     "h": 1406,
+     "alt": "Mount Khalid interior 3D render: reception",
+     "kind": "interior"
+    }
+   ]
+  },
+  "the-trillium-towers": {
+   "name": "The Trillium Towers",
+   "images": [
+    {
+     "src": "/images/projects/the-trillium-towers/exterior-1.webp",
+     "w": 1800,
+     "h": 1125,
+     "alt": "The Trillium Towers exterior 3D render, view 1",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/exterior-2.webp",
+     "w": 1800,
+     "h": 945,
+     "alt": "The Trillium Towers exterior 3D render, view 2",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/exterior-3.webp",
+     "w": 1800,
+     "h": 900,
+     "alt": "The Trillium Towers exterior 3D render, view 3",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/exterior-4.webp",
+     "w": 1800,
+     "h": 900,
+     "alt": "The Trillium Towers exterior 3D render, view 4",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/exterior-5.webp",
+     "w": 1800,
+     "h": 900,
+     "alt": "The Trillium Towers exterior 3D render, view 5",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/exterior-6.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "The Trillium Towers exterior 3D render, view 6",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/exterior-7.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "The Trillium Towers exterior 3D render, view 7",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/exterior-8.webp",
+     "w": 1800,
+     "h": 900,
+     "alt": "The Trillium Towers exterior 3D render, view 8",
+     "kind": "exterior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-1.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "The Trillium Towers interior 3D render: balcony",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-2.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "The Trillium Towers interior 3D render: business center",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-3.webp",
+     "w": 1800,
+     "h": 1005,
+     "alt": "The Trillium Towers interior 3D render: business lounge character",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-4.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "The Trillium Towers interior 3D render: cafe",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-5.webp",
+     "w": 1800,
+     "h": 1005,
+     "alt": "The Trillium Towers interior 3D render: cigar room character",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-6.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "The Trillium Towers interior 3D render: community hall",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-7.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "The Trillium Towers interior 3D render: dining",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-8.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "The Trillium Towers interior 3D render: dining",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-9.webp",
+     "w": 1800,
+     "h": 1013,
+     "alt": "The Trillium Towers interior 3D render: drawing room",
+     "kind": "interior"
+    },
+    {
+     "src": "/images/projects/the-trillium-towers/interior-10.webp",
+     "w": 1800,
+     "h": 1012,
+     "alt": "The Trillium Towers interior 3D render: gym",
+     "kind": "interior"
+    }
+   ]
+  }
+ },
+ "exterior": [
+  {
+   "src": "/images/services/exterior/exterior-1.webp",
+   "w": 1755,
+   "h": 1080,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/services/exterior/exterior-2.webp",
+   "w": 1800,
+   "h": 1019,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/services/exterior/exterior-3.webp",
+   "w": 1800,
+   "h": 1025,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/services/exterior/exterior-4.webp",
+   "w": 1800,
+   "h": 1022,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/services/exterior/exterior-5.webp",
+   "w": 1454,
+   "h": 780,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch, sample 5"
+  },
+  {
+   "src": "/images/services/exterior/exterior-6.webp",
+   "w": 1800,
+   "h": 1061,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/services/exterior/exterior-7.webp",
+   "w": 1800,
+   "h": 1018,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/services/exterior/exterior-8.webp",
+   "w": 1454,
+   "h": 734,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch, sample 8"
+  },
+  {
+   "src": "/images/services/exterior/exterior-9.webp",
+   "w": 1800,
+   "h": 728,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/services/exterior/exterior-10.webp",
+   "w": 1800,
+   "h": 1017,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/services/exterior/exterior-11.webp",
+   "w": 1800,
+   "h": 987,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/services/exterior/exterior-12.webp",
+   "w": 1800,
+   "h": 937,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: ary laguna"
+  },
+  {
+   "src": "/images/services/exterior/exterior-13.webp",
+   "w": 1800,
+   "h": 784,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch, sample 13"
+  },
+  {
+   "src": "/images/services/exterior/exterior-14.webp",
+   "w": 1800,
+   "h": 1201,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch, sample 14"
+  },
+  {
+   "src": "/images/services/exterior/exterior-15.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: evening"
+  },
+  {
+   "src": "/images/services/exterior/exterior-16.webp",
+   "w": 1800,
+   "h": 1440,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: ext01"
+  },
+  {
+   "src": "/images/services/exterior/exterior-17.webp",
+   "w": 1800,
+   "h": 900,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: wellington ocean walk"
+  },
+  {
+   "src": "/images/services/exterior/exterior-18.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: closeup"
+  },
+  {
+   "src": "/images/services/exterior/exterior-19.webp",
+   "w": 1800,
+   "h": 720,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: duplex"
+  },
+  {
+   "src": "/images/services/exterior/exterior-20.webp",
+   "w": 1800,
+   "h": 720,
+   "alt": "Photorealistic exterior 3D rendering by Pixarch: entrance"
+  }
+ ],
+ "interior": [
+  {
+   "src": "/images/services/interior/interior-1.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic interior 3D rendering by Pixarch: terraceoutdor"
+  },
+  {
+   "src": "/images/services/interior/interior-2.webp",
+   "w": 1458,
+   "h": 797,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 2"
+  },
+  {
+   "src": "/images/services/interior/interior-3.webp",
+   "w": 1800,
+   "h": 1723,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 3"
+  },
+  {
+   "src": "/images/services/interior/interior-4.webp",
+   "w": 1456,
+   "h": 792,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 4"
+  },
+  {
+   "src": "/images/services/interior/interior-5.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic interior 3D rendering by Pixarch: bedroom"
+  },
+  {
+   "src": "/images/services/interior/interior-6.webp",
+   "w": 1457,
+   "h": 793,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 6"
+  },
+  {
+   "src": "/images/services/interior/interior-7.webp",
+   "w": 1458,
+   "h": 794,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 7"
+  },
+  {
+   "src": "/images/services/interior/interior-8.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic interior 3D rendering by Pixarch: living room"
+  },
+  {
+   "src": "/images/services/interior/interior-9.webp",
+   "w": 1800,
+   "h": 2400,
+   "alt": "Photorealistic interior 3D rendering by Pixarch: entrance lobby view02"
+  },
+  {
+   "src": "/images/services/interior/interior-10.webp",
+   "w": 1452,
+   "h": 793,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 10"
+  },
+  {
+   "src": "/images/services/interior/interior-11.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 11"
+  },
+  {
+   "src": "/images/services/interior/interior-12.webp",
+   "w": 1455,
+   "h": 794,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 12"
+  },
+  {
+   "src": "/images/services/interior/interior-13.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic interior 3D rendering by Pixarch: kitchen"
+  },
+  {
+   "src": "/images/services/interior/interior-14.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic interior 3D rendering by Pixarch: male swimming pool"
+  },
+  {
+   "src": "/images/services/interior/interior-15.webp",
+   "w": 1452,
+   "h": 790,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 15"
+  },
+  {
+   "src": "/images/services/interior/interior-16.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic interior 3D rendering by Pixarch: terrace"
+  },
+  {
+   "src": "/images/services/interior/interior-17.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic interior 3D rendering by Pixarch: living"
+  },
+  {
+   "src": "/images/services/interior/interior-18.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 18"
+  },
+  {
+   "src": "/images/services/interior/interior-19.webp",
+   "w": 1800,
+   "h": 1126,
+   "alt": "Photorealistic interior 3D rendering by Pixarch: master bathroom"
+  },
+  {
+   "src": "/images/services/interior/interior-20.webp",
+   "w": 1800,
+   "h": 1800,
+   "alt": "Photorealistic interior 3D rendering by Pixarch, sample 20"
+  }
+ ],
+ "branding": [
+  {
+   "src": "/images/services/branding/branding-1.webp",
+   "w": 1800,
+   "h": 900,
+   "alt": "Real estate branding and design by Pixarch: corporate box"
+  },
+  {
+   "src": "/images/services/branding/branding-2.webp",
+   "w": 1800,
+   "h": 941,
+   "alt": "Real estate branding and design by Pixarch: branding"
+  },
+  {
+   "src": "/images/services/branding/branding-3.webp",
+   "w": 1800,
+   "h": 941,
+   "alt": "Real estate branding and design by Pixarch: branding"
+  },
+  {
+   "src": "/images/services/branding/branding-4.webp",
+   "w": 1800,
+   "h": 938,
+   "alt": "Real estate branding and design by Pixarch: branding"
+  },
+  {
+   "src": "/images/services/branding/branding-5.webp",
+   "w": 1800,
+   "h": 935,
+   "alt": "Real estate branding and design by Pixarch: branding"
+  },
+  {
+   "src": "/images/services/branding/branding-6.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Real estate branding and design by Pixarch: cover back"
+  },
+  {
+   "src": "/images/services/branding/branding-7.webp",
+   "w": 1350,
+   "h": 900,
+   "alt": "Real estate branding and design by Pixarch, sample 7"
+  },
+  {
+   "src": "/images/services/branding/branding-8.webp",
+   "w": 1800,
+   "h": 1071,
+   "alt": "Real estate branding and design by Pixarch: all pages"
+  },
+  {
+   "src": "/images/services/branding/branding-9.webp",
+   "w": 1389,
+   "h": 2083,
+   "alt": "Real estate branding and design by Pixarch, sample 9"
+  },
+  {
+   "src": "/images/services/branding/branding-10.webp",
+   "w": 833,
+   "h": 1250,
+   "alt": "Real estate branding and design by Pixarch, sample 10"
+  },
+  {
+   "src": "/images/services/branding/branding-11.webp",
+   "w": 1134,
+   "h": 1328,
+   "alt": "Real estate branding and design by Pixarch, sample 11"
+  },
+  {
+   "src": "/images/services/branding/branding-12.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Real estate branding and design by Pixarch: jacket"
+  },
+  {
+   "src": "/images/services/branding/branding-13.webp",
+   "w": 1400,
+   "h": 1533,
+   "alt": "Real estate branding and design by Pixarch, sample 13"
+  },
+  {
+   "src": "/images/services/branding/branding-14.webp",
+   "w": 1156,
+   "h": 1734,
+   "alt": "Real estate branding and design by Pixarch, sample 14"
+  },
+  {
+   "src": "/images/services/branding/branding-15.webp",
+   "w": 1800,
+   "h": 2004,
+   "alt": "Real estate branding and design by Pixarch, sample 15"
+  },
+  {
+   "src": "/images/services/branding/branding-16.webp",
+   "w": 1800,
+   "h": 1201,
+   "alt": "Real estate branding and design by Pixarch: kv mockup"
+  },
+  {
+   "src": "/images/services/branding/branding-17.webp",
+   "w": 1508,
+   "h": 936,
+   "alt": "Real estate branding and design by Pixarch: kv mockup"
+  },
+  {
+   "src": "/images/services/branding/branding-18.webp",
+   "w": 1800,
+   "h": 941,
+   "alt": "Real estate branding and design by Pixarch: branding"
+  },
+  {
+   "src": "/images/services/branding/branding-19.webp",
+   "w": 1800,
+   "h": 941,
+   "alt": "Real estate branding and design by Pixarch: branding"
+  },
+  {
+   "src": "/images/services/branding/branding-20.webp",
+   "w": 1800,
+   "h": 1022,
+   "alt": "Real estate branding and design by Pixarch: stationery"
+  },
+  {
+   "src": "/images/services/branding/branding-21.webp",
+   "w": 1800,
+   "h": 1022,
+   "alt": "Real estate branding and design by Pixarch, sample 21"
+  },
+  {
+   "src": "/images/services/branding/branding-22.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Real estate branding and design by Pixarch: emirates flyer"
+  }
+ ],
+ "marketing": [
+  {
+   "src": "/images/services/marketing/marketing-1.webp",
+   "w": 1800,
+   "h": 1080,
+   "alt": "Real estate digital marketing creative by Pixarch, sample 1"
+  },
+  {
+   "src": "/images/services/marketing/marketing-2.webp",
+   "w": 1800,
+   "h": 935,
+   "alt": "Real estate digital marketing creative by Pixarch: digital marketing"
+  },
+  {
+   "src": "/images/services/marketing/marketing-3.webp",
+   "w": 1800,
+   "h": 921,
+   "alt": "Real estate digital marketing creative by Pixarch: digital marketing"
+  },
+  {
+   "src": "/images/services/marketing/marketing-4.webp",
+   "w": 1022,
+   "h": 1533,
+   "alt": "Real estate digital marketing creative by Pixarch, sample 4"
+  },
+  {
+   "src": "/images/services/marketing/marketing-5.webp",
+   "w": 1667,
+   "h": 1111,
+   "alt": "Real estate digital marketing creative by Pixarch, sample 5"
+  },
+  {
+   "src": "/images/services/marketing/marketing-6.webp",
+   "w": 833,
+   "h": 833,
+   "alt": "Real estate digital marketing creative by Pixarch, sample 6"
+  },
+  {
+   "src": "/images/services/marketing/marketing-7.webp",
+   "w": 1800,
+   "h": 1316,
+   "alt": "Real estate digital marketing creative by Pixarch, sample 7"
+  },
+  {
+   "src": "/images/services/marketing/marketing-8.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Real estate digital marketing creative by Pixarch, sample 8"
+  },
+  {
+   "src": "/images/services/marketing/marketing-9.webp",
+   "w": 1800,
+   "h": 2249,
+   "alt": "Real estate digital marketing creative by Pixarch, sample 9"
+  }
+ ],
+ "about": [
+  {
+   "src": "/images/about/about-1.webp",
+   "w": 1800,
+   "h": 1011,
+   "alt": "Pixarch architectural visualization: closeup"
+  },
+  {
+   "src": "/images/about/about-2.webp",
+   "w": 1800,
+   "h": 1008,
+   "alt": "Pixarch architectural visualization: prince saudi"
+  },
+  {
+   "src": "/images/about/about-3.webp",
+   "w": 1281,
+   "h": 641,
+   "alt": "Pixarch architectural visualization: website pixarch"
+  },
+  {
+   "src": "/images/about/about-4.webp",
+   "w": 708,
+   "h": 708,
+   "alt": "Pixarch architectural visualization: 7website pixarch"
+  }
+ ],
+ "tours": [
+  {
+   "src": "/images/services/tours/tours-1.webp",
+   "w": 1800,
+   "h": 1013,
+   "alt": "360 virtual tour visual by Pixarch: gold crest"
+  }
+ ],
+ "walk": [
+  {
+   "src": "/images/services/walkthroughs/walkthroughs-1.webp",
+   "w": 1800,
+   "h": 1201,
+   "alt": "3D walkthrough still by Pixarch, sample 1"
+  }
+ ],
+ "intl": [
+  {
+   "src": "/images/locations/locations-1.webp",
+   "w": 1755,
+   "h": 1080,
+   "alt": "Architectural visualization by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/locations/locations-2.webp",
+   "w": 1800,
+   "h": 1005,
+   "alt": "Architectural visualization by Pixarch: asda"
+  },
+  {
+   "src": "/images/locations/locations-3.webp",
+   "w": 1800,
+   "h": 1022,
+   "alt": "Architectural visualization by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/locations/locations-4.webp",
+   "w": 1800,
+   "h": 728,
+   "alt": "Architectural visualization by Pixarch: company profile pak dubai pixarch page image"
+  },
+  {
+   "src": "/images/locations/locations-5.webp",
+   "w": 1800,
+   "h": 1005,
+   "alt": "Architectural visualization by Pixarch, sample 5"
+  },
+  {
+   "src": "/images/locations/locations-6.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Architectural visualization by Pixarch, sample 6"
+  },
+  {
+   "src": "/images/locations/locations-7.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Architectural visualization by Pixarch, sample 7"
+  },
+  {
+   "src": "/images/locations/locations-8.webp",
+   "w": 1800,
+   "h": 1005,
+   "alt": "Architectural visualization by Pixarch, sample 8"
+  },
+  {
+   "src": "/images/locations/locations-9.webp",
+   "w": 1800,
+   "h": 1005,
+   "alt": "Architectural visualization by Pixarch, sample 9"
+  },
+  {
+   "src": "/images/locations/locations-10.webp",
+   "w": 1800,
+   "h": 1013,
+   "alt": "Architectural visualization by Pixarch: ext01"
+  },
+  {
+   "src": "/images/locations/locations-11.webp",
+   "w": 1800,
+   "h": 1013,
+   "alt": "Architectural visualization by Pixarch, sample 11"
+  },
+  {
+   "src": "/images/locations/locations-12.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Architectural visualization by Pixarch, sample 12"
+  },
+  {
+   "src": "/images/locations/locations-13.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Architectural visualization by Pixarch, sample 13"
+  },
+  {
+   "src": "/images/locations/locations-14.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Architectural visualization by Pixarch, sample 14"
+  },
+  {
+   "src": "/images/locations/locations-15.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Architectural visualization by Pixarch, sample 15"
+  },
+  {
+   "src": "/images/locations/locations-16.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Architectural visualization by Pixarch, sample 16"
+  },
+  {
+   "src": "/images/locations/locations-17.webp",
+   "w": 1800,
+   "h": 1012,
+   "alt": "Architectural visualization by Pixarch, sample 17"
+  },
+  {
+   "src": "/images/locations/locations-18.webp",
+   "w": 1800,
+   "h": 900,
+   "alt": "Architectural visualization by Pixarch: ext03"
+  },
+  {
+   "src": "/images/locations/locations-19.webp",
+   "w": 1454,
+   "h": 780,
+   "alt": "Architectural visualization by Pixarch, sample 19"
+  }
+ ],
+ "portfolio": [
+  {
+   "src": "/images/misc/misc-1.webp",
+   "w": 1258,
+   "h": 500,
+   "alt": "Pixarch 3D architectural rendering: website pixarch e1752658912209"
+  },
+  {
+   "src": "/images/misc/misc-2.webp",
+   "w": 1019,
+   "h": 574,
+   "alt": "Pixarch 3D architectural rendering: website a pixarch"
+  },
+  {
+   "src": "/images/misc/misc-3.webp",
+   "w": 1154,
+   "h": 1160,
+   "alt": "Pixarch 3D architectural rendering: a07 website pixarch e1749547681284"
+  }
+ ],
+ "clients": [
+  {
+   "src": "/images/clients/client-1.webp",
+   "w": 282,
+   "h": 410,
+   "alt": "Pixarch client logo 1"
+  },
+  {
+   "src": "/images/clients/client-2.webp",
+   "w": 251,
+   "h": 386,
+   "alt": "Pixarch client logo 2"
+  },
+  {
+   "src": "/images/clients/client-3.webp",
+   "w": 140,
+   "h": 437,
+   "alt": "Pixarch client logo 3"
+  },
+  {
+   "src": "/images/clients/client-4.webp",
+   "w": 166,
+   "h": 424,
+   "alt": "Pixarch client logo 4"
+  },
+  {
+   "src": "/images/clients/client-5.webp",
+   "w": 207,
+   "h": 395,
+   "alt": "Pixarch client logo 5"
+  },
+  {
+   "src": "/images/clients/client-6.webp",
+   "w": 154,
+   "h": 432,
+   "alt": "Pixarch client logo 6"
+  },
+  {
+   "src": "/images/clients/client-7.webp",
+   "w": 253,
+   "h": 399,
+   "alt": "Pixarch client logo 7"
+  },
+  {
+   "src": "/images/clients/client-8.webp",
+   "w": 155,
+   "h": 428,
+   "alt": "Pixarch client logo 8"
+  },
+  {
+   "src": "/images/clients/client-9.webp",
+   "w": 158,
+   "h": 411,
+   "alt": "Pixarch client logo 9"
+  },
+  {
+   "src": "/images/clients/client-10.webp",
+   "w": 201,
+   "h": 383,
+   "alt": "Pixarch client logo 10"
+  },
+  {
+   "src": "/images/clients/client-11.webp",
+   "w": 222,
+   "h": 384,
+   "alt": "Pixarch client logo 11"
+  },
+  {
+   "src": "/images/clients/client-12.webp",
+   "w": 247,
+   "h": 346,
+   "alt": "Pixarch client logo 12"
+  },
+  {
+   "src": "/images/clients/client-13.webp",
+   "w": 220,
+   "h": 423,
+   "alt": "Pixarch client logo 13"
+  },
+  {
+   "src": "/images/clients/client-14.webp",
+   "w": 225,
+   "h": 403,
+   "alt": "Pixarch client logo 14"
+  },
+  {
+   "src": "/images/clients/client-15.webp",
+   "w": 263,
+   "h": 356,
+   "alt": "Pixarch client logo 15"
+  },
+  {
+   "src": "/images/clients/client-16.webp",
+   "w": 207,
+   "h": 399,
+   "alt": "Pixarch client logo 16"
+  }
+ ]
+}
