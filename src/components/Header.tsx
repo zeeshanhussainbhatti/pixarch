@@ -12,7 +12,7 @@ const mainNav = [
   { label: "Projects", href: "/projects" },
   { label: "Locations", href: "/locations", children: "locations" as const },
   { label: "About", href: "/about" },
-  { label: "Insights", href: "/blog" },
+  { label: "Blog", href: "/blog" },
 ];
 
 type Props = { serviceLinks: NavLink[]; locationLinks: NavLink[] };

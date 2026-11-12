@@ -3,13 +3,19 @@ import Link from "next/link";
 import { logo } from "@/data/media";
 import { site } from "@/lib/site";
 import { serviceLinks, locationLinks } from "@/lib/nav";
+import { categories } from "@/data/posts";
+
+const blogLinks = [
+  { label: "All articles", href: "/blog" },
+  ...categories.map((c) => ({ label: c.name, href: `/blog/category/${c.slug}` })),
+];
 
 const company = [
   { label: "About Pixarch", href: "/about" },
   { label: "Projects", href: "/projects" },
   { label: "Services", href: "/services" },
   { label: "Locations", href: "/locations" },
-  { label: "Insights", href: "/blog" },
+  { label: "Blog", href: "/blog" },
   { label: "Contact", href: "/contact" },
 ];
 
@@ -33,7 +39,7 @@ function Column({ title, links }: { title: string; links: { label: string; href:
 export default function Footer() {
   return (
     <footer className="on-dark bg-ink text-white">
-      <div className="container-x grid gap-12 py-16 md:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr] lg:py-20">
+      <div className="container-x grid gap-12 py-16 md:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr_1fr_1fr] lg:gap-10 lg:py-20">
         <div>
           <Link href="/" aria-label="Pixarch home">
             <Image
@@ -66,6 +72,7 @@ export default function Footer() {
         </div>
         <Column title="Services" links={serviceLinks} />
         <Column title="Locations" links={locationLinks} />
+        <Column title="Blog" links={blogLinks} />
         <Column title="Company" links={company} />
       </div>
       <div className="border-t border-white/10">

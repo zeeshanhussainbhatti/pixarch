@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props) {
   const c = getCategory(slug);
   if (!c) return {};
   return pageMeta({
-    title: `${c.name} Articles | Pixarch Insights`,
+    title: `${c.name} Articles | Pixarch Blog`,
     description: c.description,
     path: `/blog/category/${c.slug}`,
     image: postsIn(c.slug)[0]?.image,
@@ -39,7 +39,7 @@ export default async function CategoryPage({ params }: Props) {
         <div className="container-x">
           <Breadcrumbs
             items={[
-              { label: "Insights", href: "/blog" },
+              { label: "Blog", href: "/blog" },
               { label: c.name, href: path },
             ]}
           />

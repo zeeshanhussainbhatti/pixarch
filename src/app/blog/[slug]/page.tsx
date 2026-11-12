@@ -100,7 +100,7 @@ export default async function PostPage({ params }: Props) {
           <div className="container-x max-w-5xl">
             <Breadcrumbs
               items={[
-                { label: "Insights", href: "/blog" },
+                { label: "Blog", href: "/blog" },
                 ...(category ? [{ label: category.name, href: `/blog/category/${category.slug}` }] : []),
                 { label: "Article", href: path },
               ]}

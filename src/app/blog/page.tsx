@@ -30,10 +30,10 @@ export default function BlogPage() {
     <>
       <section className="on-dark bg-ink pb-14 pt-36 text-white md:pb-16 md:pt-44">
         <div className="container-x">
-          <Breadcrumbs items={[{ label: "Insights", href: "/blog" }]} />
+          <Breadcrumbs items={[{ label: "Blog", href: "/blog" }]} />
           <div className="mt-8 grid items-end gap-8 lg:grid-cols-[1.4fr_1fr]">
             <div>
-              <p className="eyebrow">Pixarch Insights</p>
+              <p className="eyebrow">Pixarch Blog</p>
               <h1 className="display mt-4 text-[2.6rem] sm:text-6xl lg:text-7xl">
                 Ideas on rendering and real estate marketing
               </h1>

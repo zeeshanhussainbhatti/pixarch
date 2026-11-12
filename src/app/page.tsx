@@ -317,7 +317,7 @@ export default function Home() {
       <section className="bg-paper py-20 md:py-28">
         <div className="container-x">
           <div className="flex flex-col justify-between gap-8 md:flex-row md:items-end">
-            <SectionHead eyebrow="Insights" title="Thinking on real estate marketing" />
+            <SectionHead eyebrow="From the blog" title="Thinking on real estate marketing" />
             <Link href="/blog" className="link-arrow shrink-0 self-start md:self-end">
               All articles <span aria-hidden="true">→</span>
             </Link>

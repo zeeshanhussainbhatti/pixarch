@@ -193,7 +193,7 @@ export default async function ServicePage({ params }: Props) {
           {relatedPosts.length > 0 && (
             <>
               <div className="mt-24">
-                <SectionHead eyebrow="Insights" title="Further reading" />
+                <SectionHead eyebrow="From the blog" title="Further reading" />
               </div>
               <div className="mt-12 grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
                 {relatedPosts.map((p) => (
